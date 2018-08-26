@@ -1,6 +1,9 @@
+I pair programmed with Olivia to do the backend - online datasets, API contracts and querying.
+We had to learn Node JS in one day, it is a really cool language!
+
 Welcome to Fullstack Create React App.
 
-This prject extends the awesome work done by the team who created Creat React App.
+This project extends the awesome work done by the team who created Creat React App.
 It includes the Create React Templates including a working Express server backend.
 
 To Get up and running:
