@@ -1,6 +1,6 @@
 We created this app at Create Camp 2018 in two working days.
 
-I pair programmed with Olivia to do the backend - online datasets, API contracts and querying.
+I, Alistair, pair programmed with Olivia to do the backend - online datasets, API contracts and querying.
 We had to learn Node JS in one day, it is a really cool language!
 
 Welcome to Fullstack Create React App.
